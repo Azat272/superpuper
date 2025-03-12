@@ -1,0 +1,27 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:av="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="av" x:Class="WpfApp1.Task2Page"
+      Title="Task2Page" av:DesignHeight="370" av:DesignWidth="585">
+
+    <Grid Background="White">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button x:Name="StyledButton" Content="Нажми меня"
+                    Width="150" Height="50"
+                    Style="{StaticResource CustomButtonStyle}"
+                    Click="StyledButton_Click"
+                    Margin="0,5"/>
+
+            <TextBlock x:Name="TextBlock1" Text="Наведи на меня"
+                       Style="{StaticResource CustomTextStyle}"
+                       Margin="0,5"/>
+            <TextBlock x:Name="TextBlock2" Text="Я тоже меняюсь"
+                       Style="{StaticResource CustomTextStyle}"
+                       Margin="0,5"/>
+            <TextBlock x:Name="TextBlock3" Text="И я!"
+                       Style="{StaticResource CustomTextStyle}"
+                       MouseDown="TextBlock_MouseDown"
+                       Margin="0,5"/>
+        </StackPanel>
+    </Grid>
+</Page>

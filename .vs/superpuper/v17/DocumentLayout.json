@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\superpuper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|c:\\users\\user\\source\\repos\\superpuper\\superpuper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|solutionrelative:superpuper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|c:\\users\\user\\source\\repos\\superpuper\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|c:\\users\\user\\source\\repos\\superpuper\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|c:\\users\\user\\source\\repos\\superpuper\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|c:\\users\\user\\source\\repos\\superpuper\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|c:\\users\\user\\source\\repos\\superpuper\\task1page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|solutionrelative:task1page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|c:\\users\\user\\source\\repos\\superpuper\\task1page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|solutionrelative:task1page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|c:\\users\\user\\source\\repos\\superpuper\\task2page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|solutionrelative:task2page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|c:\\users\\user\\source\\repos\\superpuper\\task2page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|solutionrelative:task2page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|c:\\users\\user\\source\\repos\\superpuper\\task3page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|solutionrelative:task3page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|c:\\users\\user\\source\\repos\\superpuper\\task3page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|solutionrelative:task3page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|c:\\users\\user\\source\\repos\\superpuper\\texteditorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|solutionrelative:texteditorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|c:\\users\\user\\source\\repos\\superpuper\\texteditorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6433ED02-BC12-4F66-B94A-72872E866E83}|superpuper.csproj|solutionrelative:texteditorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "superpuper",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\superpuper\\superpuper.csproj",
+              "RelativeDocumentMoniker": "superpuper.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\superpuper\\superpuper.csproj",
+              "RelativeToolTip": "superpuper.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T08:32:17.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\superpuper\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\superpuper\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:44:44.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task1Page.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\superpuper\\Task1Page.xaml",
+              "RelativeDocumentMoniker": "Task1Page.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\superpuper\\Task1Page.xaml",
+              "RelativeToolTip": "Task1Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T07:42:51.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\superpuper\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\superpuper\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:08:38.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\superpuper\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\superpuper\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T07:48:53.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task1Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\superpuper\\Task1Page.xaml.cs",
+              "RelativeDocumentMoniker": "Task1Page.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\superpuper\\Task1Page.xaml.cs",
+              "RelativeToolTip": "Task1Page.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:42:56.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\superpuper\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\superpuper\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T07:08:45.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task2Page.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\superpuper\\Task2Page.xaml",
+              "RelativeDocumentMoniker": "Task2Page.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\superpuper\\Task2Page.xaml",
+              "RelativeToolTip": "Task2Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T07:46:01.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task2Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\superpuper\\Task2Page.xaml.cs",
+              "RelativeDocumentMoniker": "Task2Page.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\superpuper\\Task2Page.xaml.cs",
+              "RelativeToolTip": "Task2Page.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:52:23.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task3Page.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\superpuper\\Task3Page.xaml",
+              "RelativeDocumentMoniker": "Task3Page.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\superpuper\\Task3Page.xaml",
+              "RelativeToolTip": "Task3Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T07:46:14.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Task3Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\superpuper\\Task3Page.xaml.cs",
+              "RelativeDocumentMoniker": "Task3Page.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\superpuper\\Task3Page.xaml.cs",
+              "RelativeToolTip": "Task3Page.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:55:16.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TextEditorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\superpuper\\TextEditorPage.xaml",
+              "RelativeDocumentMoniker": "TextEditorPage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\superpuper\\TextEditorPage.xaml",
+              "RelativeToolTip": "TextEditorPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T08:39:29.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TextEditorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\superpuper\\TextEditorPage.xaml.cs",
+              "RelativeDocumentMoniker": "TextEditorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\superpuper\\TextEditorPage.xaml.cs",
+              "RelativeToolTip": "TextEditorPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:42:43.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:av="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="av" x:Class="WpfApp1.Task1Page"
+      Title="Task1Page" av:DesignHeight="355" av:DesignWidth="500">
+
+    <Grid Background="White" ShowGridLines="True">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Row="1" Grid.Column="0" Background="aqua"/>
+        <Border Grid.Row="2" Grid.Column="0" Background="aqua"/>
+        <Border Grid.Row="2" Grid.Column="1" Background="aqua"/>
+
+        <TextBlock Text="Береебе" Grid.Row="0" Grid.Column="1"
+                   HorizontalAlignment="Center" VerticalAlignment="Center" 
+                   FontSize="24" FontWeight="Bold"/>
+
+        <TextBlock Text="барабарабере" Grid.Row="1" Grid.Column="1"
+                   HorizontalAlignment="Left" VerticalAlignment="Center" 
+                   FontSize="18" FontWeight="Bold" Width="147" Grid.ColumnSpan="2" Margin="166,0,0,0"/>
+        <TextBlock Text="барабарабере" Grid.Row="1" Grid.Column="1"
+            HorizontalAlignment="Left" VerticalAlignment="Center" 
+            FontSize="18" FontWeight="Bold" Width="147" Grid.ColumnSpan="2" Margin="41,0,0,0"/>
+    </Grid>
+</Page>
